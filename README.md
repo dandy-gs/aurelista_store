@@ -1,1 +1,1 @@
-# aurelista_store
+http://austore.ct.ws
